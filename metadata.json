@@ -1,0 +1,6 @@
+{
+  "name": "LeadMate AI",
+  "description": "AI-powered lead management and sales assistant for small businesses, freelancers, and agencies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
